@@ -1,5 +1,5 @@
 # Hi there, I’m Rohith 👋  
-**AI Automation Expert | Open-Source Enthusiast | Product-Minded Engineer | Startup Enthusiast**
+**AI Automation Expert | Open-Source Practitioner | Product-Minded Engineer | Startup Enthusiast**
 
 ---
 
