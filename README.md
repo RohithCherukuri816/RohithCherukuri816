@@ -62,5 +62,3 @@ I believe every repetitive task can (and should) be automated — I even built a
 
 ---
 
-### ⚡ Keywords & Hashtags  
-#AIInnovation #VirtualAssistant #Entrepreneurship #LanguageModels #GitHubCollaborator #PromptEngineering #GenerativeAI #TechEnthusiast #Automation #OpenSource #AIProducts 🚀
