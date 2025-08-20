@@ -54,11 +54,4 @@ I believe every repetitive task can (and should) be automated — I even built a
 💼 **LinkedIn:** [RohithCherukuri](https://www.linkedin.com/in/rohith-cherukuri/)  
 🌐 **Portfolio:** [rohithcherukuri](https://s3.eu-north-1.amazonaws.com/portfolio.1824/portfolio/index.html) 
 
----
-
-🌟 *Join me on the journey of innovation and transformation as we explore the limitless potential of AI in reshaping the digital landscape.* 🚀🌐  
-
-🔗 Let’s connect and collaborate on GitHub to create the next wave of intelligent virtual assistants and transformative AI experiences. 🤝👩‍💻  
-
----
 
