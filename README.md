@@ -52,6 +52,6 @@ I believe every repetitive task can (and should) be automated — I even built a
 
 📧 **Email:** rohithcherukuri@816.com  
 💼 **LinkedIn:** Get in touch with me at [RohithCherukuri](https://www.linkedin.com/in/rohith-cherukuri/)  
-🌐 **Portfolio:** Watch my portfolio on live[rohithcherukuri](http://rohithcherukuri-portfolio.s3-website.eu-north-1.amazonaws.com/) 
+🌐 **Portfolio:** Watch my portfolio on live at [rohithcherukuri](http://rohithcherukuri-portfolio.s3-website.eu-north-1.amazonaws.com/) 
 
 
