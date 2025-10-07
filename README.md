@@ -1,15 +1,16 @@
-<!-- 🌌 ULTIMATE PROFILE README | by Rohith Cherukuri -->
+# Hi there, I'm Rohith 👋
+
 <div align="center">
 
 <!-- Animated Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Rohith%20Cherukuri&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20Automation%20Expert%20%7C%20Open-Source%20Practitioner&descAlignY=65&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Rohith%20Cherukuri&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20Automation%20Expert%20%7C%20Open-Source%20Practitioner%20%7C%20Product-Minded%20Engineer&descAlignY=65&descSize=18" />
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=🤖+AI+Automation+Expert;🚀+Open-Source+Practitioner;💡+Product-Minded+Engineer;🔥+Startup+Enthusiast;🌌+Building+the+Future+with+AI" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=🤖+AI+Automation+Expert;🚀+Open-Source+Practitioner;💡+Product-Minded+Engineer;🔥+Startup+Enthusiast;🌌+Building+Intelligent+Systems" alt="Dynamic Typing" />
 </p>
 
-<!-- Social Badges -->
+<!-- Social & Professional Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rohith-cherukuri/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -29,66 +30,79 @@
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
+
+🔭 **Currently working on:**  
+Building **aGENtic AI Automation** – an open-source initiative to empower startups and businesses with intelligent automation using LLMs and agentic workflows.
+
+🌱 **Learning:**  
+Advanced Agentic Frameworks (LangChain, Haystack), RAG architectures, Business Process Automation, and scaling AI products.
+
+🧠 **Interests:**  
+Open-Source AI Models, Vibe Coding, Prompt Engineering, Agentic AI Workflows, and Business Automation.
+
+💬 **Ask me about:**  
+- Building **AI-powered automation systems** from scratch  
+- Deploying open-source models on Hugging Face & Streamlit  
+- Product development in early-stage startups  
+- Using **n8n** and workflow orchestration for AI agents  
+
+🤝 **Open to:**  
+Collaborations, Consulting, Startup Mentorship, and AI Product Development Partnerships.
+
+⚡ **Fun fact:**  
+I believe every repetitive task can (and should) be automated — I even built a bot that helps me qualify leads while I sleep 😄
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-```python
-#!/usr/bin/env python3
-# rohith_cherukuri.py
+### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
 
-class AIAutomationExpert:
-    def __init__(self):
-        self.name = "Rohith Cherukuri"
-        self.role = "AI Automation Specialist"
-        self.passion = "Empowering Startups with Intelligent Automation"
-        self.focus = ["Agentic AI Workflows", "Open-Source Innovation", "Product Development"]
-    
-    def current_mission(self):
-        return "Building aGENtic AI Automation - Democratizing AI for Startups"
-    
-    def superpower(self):
-        return "Turning complex business problems into elegant automated solutions"
-    
-    def motto(self):
-        return "Automate the Boring, Elevate the Creative ✨"
+### 🚀 Backend & API Development
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-rohith = AIAutomationExpert()
-```
+### ⚡ Automation & Deployment
+<img src="https://img.shields.io/badge/n8n-00C853?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+### 🔧 Development Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
-## 🚀 What I'm Building
 
-- 🤖 **aGENtic AI Automation** - Open-source platform for intelligent workflow automation
-- 🎯 **AI Agent Ecosystems** - Multi-agent systems for business automation  
-- 🌐 **Open-Source AI Tools** - Production-ready AI solutions for startups
+---
 
-## 🎓 Currently Mastering
-
-- Advanced Agentic Frameworks (LangGraph, CrewAI, AutoGen)
-- RAG 2.0 Architectures & Vector Database optimization
-- AI Product Scaling & Business Process Automation
-- Multi-Modal AI Systems & Real-time AI deployments
-
-## 🛠️ Tech Arsenal
+## � Featured nProjects
 
 <div align="center">
-
-### 🤖 AI & ML Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-### 🚀 Development & Deployment
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-### ⚡ Automation & Tools
-<img src="https://img.shields.io/badge/n8n-00C853?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Projects Animation" />
 </div>
+
+### � nReal-World AI Solutions
+
+| Project | Description | Technology Stack | Repository |
+|---------|-------------|------------------|------------|
+| **🤖 [AI Customer Ticket Resolution Bot](https://github.com/RohithCherukuri816/AI-Customer-Ticket-Resolution-Bot.git)** | Automated customer support system that resolves tickets intelligently | Python, LangChain, AI Models | [View Code](https://github.com/RohithCherukuri816/AI-Customer-Ticket-Resolution-Bot.git) |
+| **📞 [AI Customer Support Agent](https://github.com/RohithCherukuri816/AI-Customer-Support-Agent.git)** | 24/7 AI-powered customer service agent with natural conversation abilities | Python, Flask, AI Integration | [View Code](https://github.com/RohithCherukuri816/AI-Customer-Support-Agent.git) |
+| **🎯 [AI Lead Qualification Bot](https://github.com/RohithCherukuri816/AI-Lead-Qualification-Bot.git)** | Intelligent lead scoring and qualification system for sales automation | Python, ML Models, API Integration | [View Code](https://github.com/RohithCherukuri816/AI-Lead-Qualification-Bot.git) |
+| **📚 [Gemma Model Fine-Tuning with NLP Pipeline](https://github.com/RohithCherukuri816/Gemma-model-finetuning-using-nlp-pipeline.git)** | Custom AI model training and fine-tuning for domain-specific applications | Python, Transformers, Hugging Face | [View Code](https://github.com/RohithCherukuri816/Gemma-model-finetuning-using-nlp-pipeline.git) |
+
+<div align="center">
+  <a href="https://github.com/RohithCherukuri816?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Advanced Stats Grid -->
+<!-- GitHub Stats Grid -->
 <table>
   <tr>
     <td width="50%">
@@ -115,31 +129,9 @@ rohith = AIAutomationExpert()
 <img src="https://github-profile-trophy.vercel.app/?username=RohithCherukuri816&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 
 </div>
-## 🎯 Featured Projects Showcase
 
-<div align="center">
+---
 
-### 🤖 AI Automation Suite
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🎫 [AI Customer Ticket Resolution](https://github.com/RohithCherukuri816/AI-Customer-Ticket-Resolution-Bot) | Intelligent ticket automation with NLP & RAG | Python, LangChain, OpenAI, FAISS | 🚀 Production Ready |
-| 📞 [AI Support Agent](https://github.com/RohithCherukuri816/AI-Customer-Support-Agent) | Real-time customer support automation | FastAPI, WebSockets, RAG | 🔥 Active Development |
-| 🎯 [Lead Qualification Bot](https://github.com/RohithCherukuri816/AI-Lead-Qualification-Bot) | AI-powered sales lead scoring | n8n, OpenAI, CRM API | ✅ Deployed |
-| 🦅 [Gemma Fine-Tuning](https://github.com/RohithCherukuri816/Gemma-model-finetuning-using-nlp-pipeline) | Custom LLM training pipeline | PyTorch, HuggingFace, Transformers | 🧪 Experimental |
-
-</div>
-## 📈 Contribution Metrics
-
-<div align="center">
-
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/RohithCherukuri816/RohithCherukuri816/output/github-contribution-grid-snake.svg" />
-
-<!-- Metrics -->
-<img width="90%" src="https://github.com/RohithCherukuri816/RohithCherukuri816/blob/main/metrics.svg" />
-
-</div>
 ## 🎵 Vibe Zone
 
 <div align="center">
@@ -155,20 +147,28 @@ rohith = AIAutomationExpert()
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
-## 📬 Let's Build the Future Together
+
+---
+
+## 📫 Contact
 
 <div align="center">
 
-### 🚀 Ready to Automate Your Business?
-I'm always excited to collaborate on innovative AI projects and help startups scale with intelligent automation.
+### 🚀 Ready to Collaborate on AI Projects?
+
+I'm always excited to work on innovative AI automation projects and help startups scale with intelligent solutions.
 
 ### 📧 Get In Touch
+
 <p align="center">
   <a href="mailto:rohithcherukuri@816.com">
     <img src="https://img.shields.io/badge/📧_Email-Click_Here-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohith-cherukuri/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://rohithcherukuri-portfolio.s3-website.eu-north-1.amazonaws.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-View_Live-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/RohithCherukuri816">
     <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -179,9 +179,10 @@ I'm always excited to collaborate on innovative AI projects and help startups sc
 I built an AI bot that qualifies leads while I sleep - because even automation should work 24/7! 😄
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨+Automate+the+Boring,+Elevate+the+Creative+✨&fontSize=20&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨+Automate+the+Boring,+Elevate+the+Creative+✨&fontSize=20&fontAlignY=65&animation=fadeIn&fontColor=ffffff" />
 
 </div>
+
 ---
 
 <div align="center">
