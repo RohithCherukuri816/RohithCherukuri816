@@ -141,7 +141,6 @@ Client projects, collaborations, consulting, and AI product development partners
 ## 🚧 Currently Building
 
 <div align="center">
-
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Building Animation" />
 
 ### ✈️ AI-Based Travel Agent
@@ -149,18 +148,19 @@ Client projects, collaborations, consulting, and AI product development partners
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=🌍+Intelligent+Travel+Planning;✈️+AI-Powered+Recommendations;🗺️+Personalized+Itineraries;🤖+Smart+Travel+Assistant" alt="Travel Agent Features" />
 </p>
+</div>
 
-**🎯 Project Overview:**  
+### 🎯 Project Overview
 Building an intelligent travel planning assistant that uses AI to create personalized travel itineraries, recommend destinations, and provide real-time travel insights.
 
-**🔧 Tech Stack:**  
+### 🔧 Tech Stack
 - Python  
 - LangChain  
 - AI Models  
 - Travel APIs  
 - Streamlit
 
-**🌟 Key Features:**
+### 🌟 Key Features
 - 🗺️ Personalized itinerary generation
 - 🏨 Smart accommodation recommendations  
 - 🍽️ Local cuisine and restaurant suggestions
@@ -186,8 +186,6 @@ I'm actively looking for contributors to help make this travel agent even smarte
 - 🧪 Testing
 
 **Your contributions are welcome!** Check out the [repository](https://github.com/RohithCherukuri816/AI-Based-Travel-Agent.git) and feel free to open issues or submit pull requests.
-
-</div>
 
 ---
 
