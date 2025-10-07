@@ -138,19 +138,54 @@ Client projects, collaborations, consulting, and AI product development partners
 
 ---
 
-## 🎵 Vibe Zone
+## 🚧 Currently Building
 
 <div align="center">
 
-### 🎧 Currently Coding To
-<!-- Spotify -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=RohithCherukuri816&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=RohithCherukuri816&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true" width="400" />
-</a>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Building Animation" />
 
-### 💭 Daily Inspiration
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+### ✈️ AI-Based Travel Agent
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=🌍+Intelligent+Travel+Planning;✈️+AI-Powered+Recommendations;🗺️+Personalized+Itineraries;🤖+Smart+Travel+Assistant" alt="Travel Agent Features" />
+</p>
+
+**🎯 Project Overview:**  
+Building an intelligent travel planning assistant that uses AI to create personalized travel itineraries, recommend destinations, and provide real-time travel insights.
+
+**🔧 Tech Stack:**  
+- Python  
+- LangChain  
+- AI Models  
+- Travel APIs  
+- Streamlit
+
+**🌟 Key Features:**
+- 🗺️ Personalized itinerary generation
+- 🏨 Smart accommodation recommendations  
+- 🍽️ Local cuisine and restaurant suggestions
+- 💰 Budget optimization and cost analysis
+- 🌤️ Weather-based travel planning
+
+<div align="center">
+  <a href="https://github.com/RohithCherukuri816/AI-Based-Travel-Agent.git">
+    <img src="https://img.shields.io/badge/🚀_View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+  </a>
+  <a href="https://github.com/RohithCherukuri816/AI-Based-Travel-Agent.git">
+    <img src="https://img.shields.io/badge/🤝_Contribute-28a745?style=for-the-badge&logo=git&logoColor=white" alt="Contribute" />
+  </a>
+</div>
+
+### 🤝 Open for Contributions!
+
+I'm actively looking for contributors to help make this travel agent even smarter! Whether you're interested in:
+- 🧠 AI/ML improvements
+- 🎨 UI/UX enhancements  
+- 🔗 API integrations
+- 📝 Documentation
+- 🧪 Testing
+
+**Your contributions are welcome!** Check out the [repository](https://github.com/RohithCherukuri816/AI-Based-Travel-Agent.git) and feel free to open issues or submit pull requests.
 
 </div>
 
