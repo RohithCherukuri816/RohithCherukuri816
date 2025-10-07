@@ -29,28 +29,35 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 Vision & Mission
+To empower startups and businesses to automate and scale operations with AI. I help turn ideas into AI-powered MVPs and implement intelligent workflows that save time, reduce costs, and boost efficiency, leveraging open-source models and agentic frameworks.
 
-🔭 **Currently working on:**  
-Building **aGENtic AI Automation** – an open-source initiative to empower startups and businesses with intelligent automation using LLMs and agentic workflows.
+---
+## 🔍 Current Focus
+- Developing AI Automation, an initiative for AI-driven business automation.
+- Creating end-to-end agentic workflows that integrate LLMs with real-world business processes.
+- Deploying AI solutions on Hugging Face, Streamlit, and workflow orchestration platforms like n8n.
+---
 
-🌱 **Learning:**  
-Advanced Agentic Frameworks (LangChain, Haystack), RAG architectures, Business Process Automation, and scaling AI products.
+## 🧠 Expertise
 
-🧠 **Interests:**  
-Open-Source AI Models, Vibe Coding, Prompt Engineering, Agentic AI Workflows, and Business Automation.
+- Open-Source AI Models & Agentic Frameworks
+- Prompt Engineering & RAG Architectures
+- Business Process Automation & Workflow Optimization
+- Product Strategy & Execution for Early-Stage Startups
+---
 
-💬 **Ask me about:**  
-- Building **AI-powered automation systems** from scratch  
-- Deploying open-source models on Hugging Face & Streamlit  
-- Product development in early-stage startups  
-- Using **n8n** and workflow orchestration for AI agents  
+## 💬 How I Can Help
 
-🤝 **Open to:**  
-Collaborations, Consulting, Startup Mentorship, and AI Product Development Partnerships.
+- Transform your AI product idea into a working MVP
+- Design and implement AI-powered automation systems
+- Orchestrate workflows using n8n, LangChain, and similar tools
+- Deploy and integrate open-source AI models into real business processes
+---
 
-⚡ **Fun fact:**  
-I believe every repetitive task can (and should) be automated — I even built a bot that helps me qualify leads while I sleep 😄
+## 🤝 Open To
+
+Client projects, collaborations, consulting, and AI product development partnerships focused on automation and scaling.
 
 ---
 
