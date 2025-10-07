@@ -1,4 +1,3 @@
-# Hi there, I'm Rohith 👋
 
 <div align="center">
 
