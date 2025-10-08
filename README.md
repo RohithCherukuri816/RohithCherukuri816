@@ -71,17 +71,20 @@ Client projects, collaborations, consulting, and AI product development partners
 ### 🚀 Backend & API Development
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
+### 🎨 Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
 ### ⚡ Automation & Deployment
 <img src="https://img.shields.io/badge/n8n-00C853?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 ### 🔧 Development Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
 ---
 
-## � Featured Projects
+## � Featured nProjects
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Projects Animation" />
@@ -214,6 +217,8 @@ I'm always excited to work on innovative AI automation projects and help startup
   </a>
 </p>
 
+### 🌟 Fun Fact
+I built an AI bot that qualifies leads while I sleep - because even automation should work 24/7! 😄
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨+Automate+the+Boring,+Elevate+the+Creative+✨&fontSize=20&fontAlignY=65&animation=fadeIn&fontColor=ffffff" />
@@ -227,5 +232,7 @@ I'm always excited to work on innovative AI automation projects and help startup
 ## 📊 Profile Views
 <img src="https://komarev.com/ghpvc/?username=RohithCherukuri816&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
+## ⭐ Support My Work
+If you find my projects helpful, consider giving them a star! ⭐
 
 </div>
