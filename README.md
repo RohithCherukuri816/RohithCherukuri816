@@ -81,7 +81,7 @@ Client projects, collaborations, consulting, and AI product development partners
 
 ---
 
-## � Featured nProjects
+## � Featured Projects
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Projects Animation" />
@@ -214,8 +214,6 @@ I'm always excited to work on innovative AI automation projects and help startup
   </a>
 </p>
 
-### 🌟 Fun Fact
-I built an AI bot that qualifies leads while I sleep - because even automation should work 24/7! 😄
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=✨+Automate+the+Boring,+Elevate+the+Creative+✨&fontSize=20&fontAlignY=65&animation=fadeIn&fontColor=ffffff" />
@@ -229,7 +227,5 @@ I built an AI bot that qualifies leads while I sleep - because even automation s
 ## 📊 Profile Views
 <img src="https://komarev.com/ghpvc/?username=RohithCherukuri816&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
-## ⭐ Support My Work
-If you find my projects helpful, consider giving them a star! ⭐
 
 </div>
