@@ -84,7 +84,7 @@ Client projects, collaborations, consulting, and AI product development partners
 
 ---
 
-## � Featured nProjects
+## � Featured Projects
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Projects Animation" />
